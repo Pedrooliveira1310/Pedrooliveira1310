@@ -1,5 +1,6 @@
-## Olá! Eu sou Pedro de Oliveira 👋
 
+## Olá! Eu sou
+<img src="https://i.imgur.com/70j8hOa.png" alt="Pedro Oliveira" />
 💻 Aprendiz de Desenvolvimento de Sistemas  | 🔍 Estudante de Cibersegurança  
 🎯 Focado em aprender e crescer na área de tecnologia
 🧑‍🎓Cursando Desenvolvimento de Sistemas na Escola Senai
@@ -12,4 +13,4 @@
 
 📫 Como me encontrar:
 [![LinkedIn](https://www.linkedin.com/in/pedro-oliveira-2a6b9a348/)
-[![Instagram] peoliveira._
+[![Instagram] @peoliveira._
