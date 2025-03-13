@@ -12,3 +12,4 @@
 
 📫 Como me encontrar:
 [![LinkedIn](https://www.linkedin.com/in/pedro-oliveira-2a6b9a348/)
+[![Instagram] peoliveira._
